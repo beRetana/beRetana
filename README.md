@@ -13,25 +13,14 @@ I excell at identifying and evaluatig pain points in development across discipli
 
 Burnt Out Games (2025 - Present) - Cofounder & Tools Engineer
 
-
 ## Skills
 
-### Languages
+- C++ | C# | Python
+- Unreal Engine 5 | Unity | Git/Github
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-</div>
+## Projects
 
-### Software
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" title="Unreal" alt="Unreal" width="40" height="40"/>&nbsp;
-</div>
-
-### Projects
+### Tool Projects
 
 <span>
 <table>
@@ -50,17 +39,26 @@ Burnt Out Games (2025 - Present) - Cofounder & Tools Engineer
 </table>
 </span>
 
-<!--
-**beRetana/beRetana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Game Projects
 
-Here are some ideas to get you started:
+<span>
+<table>
+  <tr>
+  <td>
+        
+  [Burning Out](https://store.steampowered.com/app/3795170/Burning_Out/)
+        
+  </td>
+  <td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [Breaker](https://github.com/beRetana/Breaker)
+      
+  </td>
+  <td>
+
+  [Kawai'ian Isolation](https://malachek.itch.io/kawaiian-isolation)
+  
+  </td>
+  </tr>
+</table>
+</span>
