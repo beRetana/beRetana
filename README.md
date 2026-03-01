@@ -7,7 +7,7 @@
 
 Game dev tools enginner with experience shipping games on steam, improving development workflow and cofounding and indie studio. Skilled at improving development workflow, developing gameplay features, architectural designs across Unity and Unreal Engine 5.
 
-I excell at identifying and evaluatig pain points in development across disciplines achieving reduction of developement time and costs. My workstyle relies on client feedback for iteration.
+I excell at identifying and evaluatig pain points in development across disciplines achieving reduction of development time and costs. My workstyle relies on client feedback for iteration.
 
 ## Work Experience
 
